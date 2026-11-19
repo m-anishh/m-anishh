@@ -1,4 +1,4 @@
-# Hi there, I'm Manish Bista! 👋
+# Hi , I'm Manish Bista! 👋
 
 **🌍 Based in Nepal**
 
