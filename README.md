@@ -40,7 +40,7 @@ I'm continuously learning and building skills across four interconnected domains
 - Python for AI
 - Large Language Models (LLMs)
 - RAG & Vector Databases
-- AI Agents & Agentic AI
+- AI Agents &  AI workflows 
 - Model Context Protocol (MCP)
 - Context Engineering
 - AWS Bedrock & AI Automation
